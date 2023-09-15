@@ -1,5 +1,5 @@
-template-repository (1.0-1) unstable; urgency=medium
+dofi (0.1.0) UNSTABLE; urgency=medium
 
-  * Initial release
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- rewine <lhongxu@outlook.com>  Tue, 12 Sep 2023 13:09:15 +0800
